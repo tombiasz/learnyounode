@@ -1,1 +1,1 @@
-solutions to [laernyounode](https://github.com/workshopper/learnyounode) exercises
+solutions to [learnyounode](https://github.com/workshopper/learnyounode) exercises
